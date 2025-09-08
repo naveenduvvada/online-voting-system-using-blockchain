@@ -36,25 +36,6 @@ User → Authentication → Cast Vote → Blockchain Network → Verify & Store 
 
 ---
 
-## 📂 Project Structure
-
-📦 Online-Voting-Blockchain
-├── 📁 contracts       # Smart contracts
-├── 📁 migrations      # Deployment scripts
-├── 📁 src             # Frontend code
-│   ├── index.html
-│   ├── style.css
-│   └── app.js
-├── 📁 backend         # Backend API (Flask/Node)
-│   ├── app.py / server.js
-│   └── routes/
-├── 📁 test            # Test scripts
-├── 📄 README.md
-├── 📄 package.json / requirements.txt
-└── 📄 truffle-config.js / hardhat.config.js
-
----
-
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the repository
@@ -152,9 +133,8 @@ Contributions are welcome!
 
 ## 👨‍💻 Author
 
-- **Your Name**  
-- GitHub: [@yourusername](https://github.com/yourusername)  
-- Email: your.email@example.com  
+- **Duvvada Naveen Kumar**   
+- Email: duvvadanaveen6@gmail.com  
 
 ---
 
